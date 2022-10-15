@@ -1,14 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T06:06:11.804Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="EqSKqciak6l_sxcZhvJk" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-15T09:58:14.025Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="0NXWPML0KG_dRz0x_DjK" version="20.4.0" type="github">
   <diagram id="IRJsDQhNZvdzmHHZ71zx" name="Page-1">
-    <mxGraphModel dx="946" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YF6cbfWAIHAA54zcOjM--9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="20" width="120" height="60" as="geometry" />
+        <mxCell id="TfMOOckVI0cpzH9G9zuh-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="110" as="sourcePoint" />
+            <mxPoint x="820" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="YF6cbfWAIHAA54zcOjM--10" value="Логотип" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="55" y="37.5" width="70" height="25" as="geometry" />
+        <mxCell id="TfMOOckVI0cpzH9G9zuh-3" value="&lt;b&gt;Шапка&lt;/b&gt;&amp;nbsp;&lt;br&gt;как в шаблоне главной страницы" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMOOckVI0cpzH9G9zuh-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9" y="1050" as="sourcePoint" />
+            <mxPoint x="819" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfMOOckVI0cpzH9G9zuh-5" value="&lt;b&gt;футер&lt;/b&gt;&amp;nbsp;&lt;br&gt;как в шаблоне главной страницы" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1080" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMOOckVI0cpzH9G9zuh-6" value="главная / хлебные кроши" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="130" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMOOckVI0cpzH9G9zuh-7" value="Заголовок статьи&lt;br style=&quot;font-size: 17px;&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="20" y="170" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMOOckVI0cpzH9G9zuh-8" value="время прочтения: 10 мин" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="420" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMOOckVI0cpzH9G9zuh-10" value="автор: Владимир Жиганов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="420" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMOOckVI0cpzH9G9zuh-12" value="поделиться: тут иконки меседжеров (телега + востапп), + иконки ВК" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475" y="420" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMOOckVI0cpzH9G9zuh-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="20" y="210" width="790" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMOOckVI0cpzH9G9zuh-15" value="Красивое изображение - как превью для статьи" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
